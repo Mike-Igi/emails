@@ -1,0 +1,63 @@
+{
+  "_from": "handlebars-email-template@^1.4.7",
+  "_id": "handlebars-email-template@1.4.7",
+  "_inBundle": false,
+  "_integrity": "sha1-XjFEjHrO9Kn7zb8ADjnxnv+2Vls=",
+  "_location": "/handlebars-email-template",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "handlebars-email-template@^1.4.7",
+    "name": "handlebars-email-template",
+    "escapedName": "handlebars-email-template",
+    "rawSpec": "^1.4.7",
+    "saveSpec": null,
+    "fetchSpec": "^1.4.7"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/handlebars-email-template/-/handlebars-email-template-1.4.7.tgz",
+  "_shasum": "5e31448c7acef4a9fbcdbf000e39f19effb6565b",
+  "_spec": "handlebars-email-template@^1.4.7",
+  "_where": "C:\\Users\\Mike\\Desktop\\emails",
+  "author": {
+    "name": "Matthew Claffey"
+  },
+  "bugs": {
+    "url": "https://github.com/code-mattclaffey/handlebars-email-template/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "eslint": "^3.3.1",
+    "fs-extra": "^0.30.0",
+    "glob-fs": "^0.1.6",
+    "handlebars": "^4.0.5",
+    "object-assign": "^4.1.0"
+  },
+  "deprecated": false,
+  "description": "A handlebars email template.",
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  },
+  "homepage": "https://github.com/code-mattclaffey/handlebars-email-template",
+  "keywords": [
+    "handlebars",
+    "handlebars-email-template"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "handlebars-email-template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-mattclaffey/handlebars-email-template.git"
+  },
+  "scripts": {
+    "test": "mocha && eslint index.js"
+  },
+  "version": "1.4.7"
+}
